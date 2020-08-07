@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 💬 Ask me about **Frontend Application Optimisations**, Cloud Services
+
+- 📫 How to reach me: shashank@duhan.me
+
+- 🎃 Ready to jump in any part time projects
+
 <!--
 **shashankduhan/shashankduhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
