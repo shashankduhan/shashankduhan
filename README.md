@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about **Frontend Application Optimisations**, Cloud Services
+- 💬 Ask me about **Frontend Application Optimisations**, Cloud Services, Machine Learning & Quantum Processors & Systems when you meet me in-person.
 
 - 📫 How to reach me: shashank@duhan.me
 
